@@ -9,9 +9,12 @@ TTS-DC 🎙️ permite integrar un sistema de Text-to-Speech (TTS) directamente 
 
 Lo mejor de TTS-DC es su eficiencia: se ejecuta de forma local para minimizar el impacto en el rendimiento de tu PC.
 
-Compatibilidad actual: Kick.com
+### Plataformas soportadas
 
-Próximamente: Twitch y YouTube.
+Plataformas              |      Twitch      |       Kick       |        Youtube       |
+| --------------------- | :--------------: | :--------------: | :------------------: |
+| Funciones Generales |        :heavy\_check\_mark:       |        :heavy\_check\_mark:        | :heavy\_check\_mark:  |
+
 
 <br/>
 
@@ -23,6 +26,8 @@ TTS-DC 🎙️ is a lightweight, local application designed for streamers to enh
 
 When a viewer triggers a specific keyword in your chat, the program plays the message using the voice of a celebrity or character you've pre-configured. Since it runs locally, it ensures low latency and minimal CPU usage.
 
-Current Support: Kick.com
+### Platform Support Overview 
 
-Coming Soon: Twitch and YouTube.
+Platform              |      Twitch      |       Kick       |        Youtube       |
+| --------------------- | :--------------: | :--------------: | :------------------: |
+| General Functionality |        :heavy\_check\_mark:       |        :heavy\_check\_mark:        | :heavy\_check\_mark:  |
