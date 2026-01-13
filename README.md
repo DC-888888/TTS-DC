@@ -1,5 +1,8 @@
 ![Portada_reducida_TTS-DC](https://github.com/user-attachments/assets/f604e4f0-a6d8-418e-9579-301eabc6ae46)
 
+# ⚠️ DESCARGO DE RESPONSABILIDAD: SOLO PARA FINES EDUCATIVOS
+> ** Este software es una Prueba de Concepto (PoC) diseñada estrictamente con fines educativos relacionados con la automatización de texto a voz, la integración con streaming.**
+> ** El desarrollador desaconseja y condena el uso de este software para suplantaciones de identidad o cualquier actividad que viole los Términos de Servicio de plataformas de terceros. Cualquier discusión relacionada con el uso malicioso será eliminada.
 
 🇪🇸 Descripción (Español)
 
@@ -19,6 +22,11 @@ Plataformas              |      Twitch      |       Kick       |        Youtube 
 <br/>
 
 🇺🇸 Description (English)
+
+# ⚠️ DISCLAIMER: EDUCATIONAL PURPOSES ONLY
+> ** This software is a Proof of Concept (PoC) designed strictly for educational purposes regarding text-to-speech automation and streaming integration.**
+> ** The developer discourages and condemns the use of this software for identity theft, impersonation, or any activity that violates the Terms of Service of third-party platforms. Any discussion regarding malicious use will be removed
+
 
 It is a lightweight, local tool designed for streamers who want to increase interaction with their audience through custom voices.
 
