@@ -21,8 +21,8 @@ Plataformas              |      Twitch      |       Kick       |        Youtube 
 ## Guía de Inicio (Getting Started)
 
 * **Descarga el ejecutable** de un solo archivo para Windows desde la [última versión de VADC](https://github.com/dc-888888/TTS-DC/releases/). 
-* **Guía de configuración completa** para TTS-DC Free y Premium.
-* **Consulta la Wiki** para obtener [consejos de uso](https://github.com/DC-888888/TTS-DC/wiki/Tutorial).
+* **Guía de [configuración completa](https://github.com/DC-888888/TTS-DC/wiki/Tutorial).** para TTS-DC Free y Premium.
+
 
 ## Versión Gratuita y Premium
 
@@ -63,8 +63,7 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 ## Getting Started
 
 * **Download the one-file executable** for Windows from the [latest TTS-DC release](https://github.com/dc-888888/TTS-DC/releases/).
-* **Complete configuration guide** for TTS-DC Free and Premium.
-* **Check the Wiki** for [usage tips](https://github.com/DC-888888/TTS-DC/wiki/Tutorial).
+* **Complete [configuration guide](https://github.com/DC-888888/TTS-DC/wiki/Tutorial)** for TTS-DC Free and Premium.
 
 ## Version Free & Premium
 
