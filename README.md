@@ -24,6 +24,20 @@ Plataformas              |      Twitch      |       Kick       |        Youtube 
 * **Guía de configuración completa** para TTS-DC Free y Premium.
 * **Consulta la Wiki** para obtener [consejos de uso](https://github.com/DC-888888/TTS-DC/wiki/Tutorial).
 
+## Versión Gratuita y Premium
+
+Plataformas              |      Gratuita      |       Premium     |
+| --------------------- | :--------------: | :--------------: |
+| Slots |        3      |        Ilimitado        | 
+| Peticiones  |        10      |        Ilimitado         | 
+| Tiempo de uso |        20 minutos      |        Ilimitado         | 
+
+
+## 🌟 ¡Ya disponible la Premium Edition!
+¡Lleva tu experiencia al siguiente nivel! Desbloquea **funciones exclusivas** y mejora el rendimiento de tus automatizaciones con la versión **TTS-DC Premium**.
+
+👉 **[Hazte con tu versión Premium aquí](https://ko-fi.com/dc888888)**
+
 
 <br/>
 
@@ -51,3 +65,17 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 * **Download the one-file executable** for Windows from the [latest TTS-DC release](https://github.com/dc-888888/TTS-DC/releases/).
 * **Complete configuration guide** for TTS-DC Free and Premium.
 * **Check the Wiki** for [usage tips](https://github.com/DC-888888/TTS-DC/wiki/Tutorial).
+
+## Version Free & Premium
+
+Platform             |      Free      |       Premium     |
+| --------------------- | :--------------: | :--------------: |
+| Slots |        3      |        Unlimited       | 
+| Requests |        10      |        Unlimited        | 
+| Usage Time |        20 minutos      |        Unlimited         | 
+
+## ✨ TTS-DC Premium Edition is here!
+
+Ready to unlock the full potential? Get access to **exclusive features** and **priority support** with our Premium Edition.
+
+🚀 **[Get TTS-DC Premium Now](https://ko-fi.com/dc888888)**
