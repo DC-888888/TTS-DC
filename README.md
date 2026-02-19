@@ -1,46 +1,5 @@
 ![Portada_reducida_TTS-DC](https://github.com/user-attachments/assets/f604e4f0-a6d8-418e-9579-301eabc6ae46)
 
-# ⚠️ DESCARGO DE RESPONSABILIDAD: SOLO PARA FINES EDUCATIVOS
-> ** Este software es una Prueba de Concepto (PoC) diseñada estrictamente con fines educativos relacionados con la automatización de texto a voz, la integración con streaming.**
-> ** El desarrollador desaconseja y condena el uso de este software para suplantaciones de identidad o cualquier actividad que viole los Términos de Servicio de plataformas de terceros. Cualquier discusión relacionada con el uso malicioso será eliminada.
-
-🇪🇸 Descripción (Español)
-
-Es una herramienta ligera y local diseñada para streamers que desean aumentar la interacción con su audiencia a través de voces personalizadas.
-
-TTS-DC 🎙️ permite integrar un sistema de Text-to-Speech (TTS) directamente en OBS. Cuando un espectador utiliza una palabra clave en el chat, el programa reproduce el mensaje con la voz de un personaje famoso que hayas configurado previamente.
-
-Lo mejor de TTS-DC es su eficiencia: se ejecuta de forma local para minimizar el impacto en el rendimiento de tu PC.
-
-### Plataformas soportadas
-
-Plataformas              |      Twitch      |       Kick       |        Youtube       |
-| --------------------- | :--------------: | :--------------: | :------------------: |
-| Funciones Generales |        :heavy\_check\_mark:       |        :heavy\_check\_mark:        | :heavy\_check\_mark:  |
-
-## Guía de Inicio (Getting Started)
-
-* **Descarga el ejecutable** de un solo archivo para Windows desde la [última versión de VADC](https://github.com/dc-888888/TTS-DC/releases/). 
-* **Guía de [configuración completa](https://github.com/DC-888888/TTS-DC/wiki/Tutorial).** para TTS-DC Free y Premium.
-
-
-## Versión Gratuita y Premium
-
-Plataformas              |      Gratuita      |       Premium     |
-| --------------------- | :--------------: | :--------------: |
-| Slots |        3      |        Ilimitado        | 
-| Peticiones  |        10      |        Ilimitado         | 
-| Tiempo de uso |        20 minutos      |        Ilimitado         | 
-
-
-## 🌟 ¡Ya disponible la Premium Edition!
-¡Lleva tu experiencia al siguiente nivel! Desbloquea **funciones exclusivas** y mejora el rendimiento de tus automatizaciones con la versión **TTS-DC Premium**.
-
-👉 **[Hazte con tu versión Premium aquí](https://ko-fi.com/dc888888)**
-
-
-<br/>
-
 🇺🇸 Description (English)
 
 # ⚠️ DISCLAIMER: EDUCATIONAL PURPOSES ONLY
@@ -69,12 +28,54 @@ Platform              |      Twitch      |       Kick       |        Youtube    
 
 Platform             |      Free      |       Premium     |
 | --------------------- | :--------------: | :--------------: |
-| Slots |        3      |        Unlimited       | 
+| Slots |        2      |        Unlimited       | 
 | Requests |        10      |        Unlimited        | 
-| Usage Time |        20 minutos      |        Unlimited         | 
+
 
 ## ✨ TTS-DC Premium Edition is here!
 
 Ready to unlock the full potential? Get access to **exclusive features** and **priority support** with our Premium Edition.
 
 🚀 **[Get TTS-DC Premium Now](https://ko-fi.com/dc888888)**
+
+🇪🇸 Descripción (Español)
+
+# ⚠️ DESCARGO DE RESPONSABILIDAD: SOLO PARA FINES EDUCATIVOS
+> ** Este software es una Prueba de Concepto (PoC) diseñada estrictamente con fines educativos relacionados con la automatización de texto a voz, la integración con streaming.**
+> ** El desarrollador desaconseja y condena el uso de este software para suplantaciones de identidad o cualquier actividad que viole los Términos de Servicio de plataformas de terceros. Cualquier discusión relacionada con el uso malicioso será eliminada.
+
+
+Es una herramienta ligera y local diseñada para streamers que desean aumentar la interacción con su audiencia a través de voces personalizadas.
+
+TTS-DC 🎙️ permite integrar un sistema de Text-to-Speech (TTS) directamente en OBS. Cuando un espectador utiliza una palabra clave en el chat, el programa reproduce el mensaje con la voz de un personaje famoso que hayas configurado previamente.
+
+Lo mejor de TTS-DC es su eficiencia: se ejecuta de forma local para minimizar el impacto en el rendimiento de tu PC.
+
+### Plataformas soportadas
+
+Plataformas              |      Twitch      |       Kick       |        Youtube       |
+| --------------------- | :--------------: | :--------------: | :------------------: |
+| Funciones Generales |        :heavy\_check\_mark:       |        :heavy\_check\_mark:        | :heavy\_check\_mark:  |
+
+## Guía de Inicio (Getting Started)
+
+* **Descarga el ejecutable** de un solo archivo para Windows desde la [última versión de VADC](https://github.com/dc-888888/TTS-DC/releases/). 
+* **Guía de [configuración completa](https://github.com/DC-888888/TTS-DC/wiki/Tutorial).** para TTS-DC Free y Premium.
+
+
+## Versión Gratuita y Premium
+
+Plataformas              |      Gratuita      |       Premium     |
+| --------------------- | :--------------: | :--------------: |
+| Slots |        2      |        Ilimitado        | 
+| Peticiones  |        10      |        Ilimitado         | 
+
+
+
+## 🌟 ¡Ya disponible la Premium Edition!
+¡Lleva tu experiencia al siguiente nivel! Desbloquea **funciones exclusivas** y mejora el rendimiento de tus automatizaciones con la versión **TTS-DC Premium**.
+
+👉 **[Hazte con tu versión Premium aquí](https://ko-fi.com/dc888888)**
+
+
+<br/>
